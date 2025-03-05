@@ -42,3 +42,7 @@ Welcome to the **Finite Automaton** project! 🚀 This project implements basic 
 
 5. **Generate Closures**:
     - Use `InitializationNewClosingSet()` and `GenerateNewClosure()` for generating closure operations in your automaton.
+
+**Project done by**:
+  - Hermeneanu Silviu Ionut
+  - Dragomir Cezar Andrei
