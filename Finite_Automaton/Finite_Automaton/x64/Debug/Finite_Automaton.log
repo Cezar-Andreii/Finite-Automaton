@@ -1,0 +1,14 @@
+﻿  AF.cpp
+  AFD.cpp
+  main.cpp
+C:\Info probleme\INFO_AN_2\SEM_1\LFC\Finite_Automaton\Finite_Automaton\Functions.h(390,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Info probleme\INFO_AN_2\SEM_1\LFC\Finite_Automaton\Finite_Automaton\Functions.h(400,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
+C:\Info probleme\INFO_AN_2\SEM_1\LFC\Finite_Automaton\Finite_Automaton\Functions.h(15,1): warning C4715: 'Priority': not all control paths return a value
+  Finite_Automaton.vcxproj -> C:\Info probleme\INFO_AN_2\SEM_1\LFC\Finite_Automaton\x64\Debug\Finite_Automaton.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
